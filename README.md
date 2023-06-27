@@ -2,7 +2,7 @@
 
 ### 1.Project Links
 1. [Varshitha Gunnala(S564534)](https://github.com/Varshitha-11)
-2. Naresh Chitvala(S562113)
+2. [Naresh Chitvala(S562113)](https://github.com/CHITYALA315)
 3. [Shiva Kumar Reddy Bakkannagari(S564550)](https://github.com/ShivaKumarReddyB)
 4. [Vamshi Krishna Yadav Gunnala (S564843)](https://github.com/VamshiKrishna8888)
 5. [Kelifa Kc (S560305)](https://github.com/Kelifakc16)
